@@ -1,0 +1,94 @@
+.container {
+    padding: 20px;
+    background-color: #000;
+    color: white;
+    font-family: 'Arial', sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.username {
+    color: #4bd3f7;
+    font-weight: bold;
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.welcome-card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0 10px;
+}
+
+.mission-list {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+}
+
+.mission-card {
+    background-color: #111;
+    padding: 10px;
+    border-radius: 10px;
+    min-width: 150px;
+    border: 1px solid #222;
+}
+
+.challenge .days {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.day {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #222;
+}
+
+.day.active {
+    background-color: #4bd3f7;
+    color: #000;
+}
+
+.summary {
+    background-color: #111;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.activity-card {
+    background-color: #111;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.start-button {
+    width: 100%;
+    background-color: #007bff;
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    margin-top: 20px;
+}
