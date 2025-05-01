@@ -38,5 +38,5 @@ Construção de uma comunidade ativa.
 Lançamento do MVP em breve.
 
 Link do Protótipo (Figma)
-👉 Clique aqui para acessar o protótipo da Evorun
+👉 https://www.figma.com/proto/V0GeZZPpSvOSJyF0FnPUIQ/Evorun?page-id=8637%3A211&node-id=8637-214&p=f&viewport=377%2C232%2C0.61&t=uew46e0Ag6D0Rlzl-1&scaling=scale-down&content-scaling=fixed
 
