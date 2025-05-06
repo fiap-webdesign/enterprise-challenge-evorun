@@ -1,42 +1,41 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/KkCLMwje)
+Evorun: Transforme Sua Rotina em uma Jornada Épica
+Evorun é uma plataforma digital gamificada que transforma atividades físicas como corrida e caminhada em uma experiência épica e envolvente. A proposta une narrativa, tecnologia e motivação para tornar a prática de exercícios mais divertida, acessível e significativa — especialmente para jovens entre 18 e 30 anos.
 
+Nosso Propósito
+Incentivar a constância nos exercícios físicos por meio de uma experiência interativa baseada em missões, recompensas e narrativas imersivas.
 
+Funcionalidades Principais
+Onboarding com narrativa personalizada
 
-Evorun: Uma Jornada Épica Rumo ao Estilo de Vida Saudável
-Evorun é uma plataforma digital gamificada que transforma atividades físicas como corrida e caminhada em uma jornada épica e envolvente. A proposta une storytelling, motivação e tecnologia para tornar a prática de exercícios mais divertida, acessível e significativa, especialmente para jovens entre 18 e 30 anos.
+Missões semanais com recompensas motivadoras
 
-Objetivo
-Incentivar a constância nos exercícios físicos através de uma experiência interativa baseada em missões, recompensas e narrativas imersivas.
+Áudios narrativos que acompanham o usuário durante os treinos
 
-Principais Funcionalidades
-Onboarding com narrativa personalizada.
+Sistema de progressão com medalhas, níveis e itens colecionáveis
 
-Missões semanais com recompensas.
+Dashboard intuitivo para acompanhar a evolução
 
-Áudios narrativos que acompanham o usuário durante os exercícios.
-
-Sistema de progressão com medalhas, níveis e itens colecionáveis.
-
-Dashboard intuitivo para acompanhar o progresso.
-
-Interface amigável e visual motivador.
+Interface amigável com visual motivador
 
 Tecnologias Utilizadas
-Figma (prototipagem de interface)
+Figma (prototipagem da interface)
 
 React.js e Node.js
 
 Integração planejada com dispositivos wearables
 
-Desenvolvimento em app híbrido
+Desenvolvimento híbrido (app multiplataforma)
 
 Visão de Futuro
-Expansão de funcionalidades e conteúdos.
+Expansão de funcionalidades e conteúdos
 
-Construção de uma comunidade ativa.
+Criação de uma comunidade ativa e engajada
 
-Lançamento do MVP em breve.
+Lançamento do MVP em breve
 
-Link do Protótipo (Figma)
-👉 https://www.figma.com/proto/V0GeZZPpSvOSJyF0FnPUIQ/Evorun?page-id=8637%3A211&node-id=8637-214&p=f&viewport=377%2C232%2C0.61&t=uew46e0Ag6D0Rlzl-1&scaling=scale-down&content-scaling=fixed
+🔗 Links Importantes
+Protótipo no Figma : https://www.figma.com/proto/V0GeZZPpSvOSJyF0FnPUIQ/Evorun?page-id=8637%3A211&node-id=8637-262&p=f&viewport=-1114%2C247%2C0.5&t=NPpNzPGUMiMn4tSs-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=8637%3A214
 
+Repositório no GitHub :  https://github.com/fiap-webdesign/enterprise-challenge-evorun
+
+Apresentação em Vídeo – YouTube : https://www.youtube.com/watch?v=WxiX6r2ZceU&ab_channel=Hanna
